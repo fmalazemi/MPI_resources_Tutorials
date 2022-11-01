@@ -18,6 +18,7 @@ A collection of resources and tutorials
 - https://www.cscs.ch/fileadmin/user_upload/contents_publications/tutorials/advanced_memory_distribution_parallel_programming/hoefler-mpi-tutorial_II.pdf
 - https://iamsorush.com
 - https://mpitutorial.com
+- https://cvw.cac.cornell.edu/topics
 
 
 
