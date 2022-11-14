@@ -14,6 +14,7 @@
     - Wait for list of module and data
     - For each module spwan a seperate process in the server that loads data and executes the module. 
       - Server use MPI to communicate with spwaned processes. 
+      - Or we can inform a process give process input as a parameter and inform where to store output.
     - Send output back to client (or store in a database?) 
     - Close connection
   - Wait for another client. 
