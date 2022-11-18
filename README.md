@@ -19,7 +19,7 @@ A collection of resources and tutorials
 - https://iamsorush.com
 - https://mpitutorial.com
 - https://cvw.cac.cornell.edu/topics
-
+- https://www.hpc.cineca.it/content/training-mpi
 
 
 # C++ new features
